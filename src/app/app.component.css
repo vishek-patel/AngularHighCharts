@@ -19,21 +19,21 @@
 .barChart{
     width: 400px;
     height: 400px;
-    background-color: blue;
+    /* background-color: blue; */
     border-radius: 12px;
 }
 .lineChart{
     width: 400px;
     height: 400px;
     border-radius: 12px;
-    background-color: green;
+    /* background-color: green; */
 }
 
 .pieChart{
     width: 400px;
     height: 400px;
     border-radius: 12px;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 .chart-title{
